@@ -1,0 +1,14 @@
+{
+  "name": "projeto_calculadora_quimica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculadoraquimica.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Davi Sacerdote Andrade",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
