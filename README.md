@@ -92,6 +92,6 @@ O projeto também servirá como prática para trabalhar com dados estruturados e
 
 ## 👨‍💻 Autor
 
-**Davi Sacerdote**
+ Davi Sacerdote
 
 Projeto desenvolvido durante os estudos de JavaScript.
